@@ -1,0 +1,18 @@
+WRITE SOMETHING MEANINGFULL HERE
+--------------------------------------------------------------------------------
+TODO LIST:
+
+1) Dynamic Boundary conditions
+2) Calculate the number of cells for bifurcation problem
+3) Create the mesh for bifurcation problem with proper orientation
+4) Calculate MLUPs for bifurcation problem
+5) Create MLUPs vs number of processor graph
+
+--------------------------------------------------------------------------------
+STRUCTURE:
+	1) Build folder contains all object files
+	2) Frame folder contains all vtk files
+	3) Mesh folder contains neighbour, coordinates and cell informations
+	4) Other folders contains informations regarding other stuff
+
+--------------------------------------------------------------------------------
